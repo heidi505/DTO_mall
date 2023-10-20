@@ -7,7 +7,7 @@
 
 ## 사용한 기술
 ### 기술 스택
--spring boot 2.7
+-spring boot 2.7 
 -JDK 11
 -VSCODE
 -MySQL8.0
